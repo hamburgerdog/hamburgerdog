@@ -9,7 +9,7 @@
 ### 嗯，关于“我”：
 * :lipstick: 文具越花成绩越差型选手  
 * :memo: 箴言：**青春有比，越隐忍越不行**  
-* :hammer: GO | JAVA | JS  | KOTLIN
+* :hammer: JAVA | JS  | KOTLIN | GO 
 * :rotating_light: 最近很需要一份工作！
 
 #### Languages and Tools:
@@ -25,9 +25,8 @@
 <img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>
 <br/><br/>
 
-#### :poop: 顺带养只臭屁猫猫
-<img width="30%" align="left" alt="nyan-cat" src="https://newscrewdriver.files.wordpress.com/2018/10/poptartcat320240.gif?w=700"/>
+#### :poop: 顺带养只臭屁猫猫  
 
-**常用的语言一览：**
+<img height="170px" align="left" alt="nyan-cat" src="https://newscrewdriver.files.wordpress.com/2018/10/poptartcat320240.gif?w=700"/>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hamburgerdog&layout=compact)
