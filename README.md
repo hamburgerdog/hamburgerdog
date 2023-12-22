@@ -9,3 +9,9 @@
 ### About me：
 广东深圳｜前端工程师｜ 天蝎｜上升天空｜Front-end web  
 日常主要在搞 Canvas 相关，在学 rust... 喜欢听 mla、逛公园...
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
