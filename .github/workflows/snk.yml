@@ -28,6 +28,5 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: master
-          author_name: hamburgerdog
-          author_email: 838980000@qq.com
+          author_name: snk_bot
           message: 'build: Generate Contribution Snake' 
