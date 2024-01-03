@@ -29,4 +29,5 @@ jobs:
         with:
           branch: master
           author_name: snk_bot
+          author_email: snk_bot
           message: 'build: Generate Contribution Snake' 
