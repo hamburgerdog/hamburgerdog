@@ -7,7 +7,7 @@
 <br />
 
 ### About me：
-广东深圳｜前端工程师｜ 天蝎｜上升天空｜front-end
+广东深圳｜前端工程师｜ 天蝎｜上升天空｜front-end  
 日常主要在搞 Canvas 相关，在学 rust... 喜欢听 mla、逛公园...  
 
 KOSIAHGEN = Koa(こあ HUNG) + Josiah Gen(Shawn Gen) = my chinese name
